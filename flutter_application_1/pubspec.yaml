@@ -1,0 +1,31 @@
+name: flutter_application_1
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+#To add assets to your application, add an assets section, like this:
+  assets: 
+  - assets/Sate ayam madura.jpeg
+  - assets/Sego Tempong.jpg
+  - assets/Rawon.jpeg
+  - assets/Soto Lamongan.jpg
+  - assets/Lontong Balap.jpeg
+  - assets/Rujak cingur.jpeg
+  - assets/Tahu Tek.jpeg
+  - assets/Bakso Malang.jpg
+  - assets/Nasi Krawu.jpeg
+  - assets/Lontong Kupang.jpg
+  uses-material-design: true
